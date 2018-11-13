@@ -1,1 +1,1 @@
-![Diagrama](https://drive.google.com/drive/my-drive)
+![Diagrama](G10DAVID/ Class Diagram.jpg)
