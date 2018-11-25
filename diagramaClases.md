@@ -1,1 +1,3 @@
 ![Diagrama](https://github.com/LuisRodriguez594/G10DAVID/blob/master/%20Class%20Diagram.jpg)
+
+En este diagrama vemos como tenemos una clase Persona en la que englobamos tanto a la clase profesor, como a la clase alumno. En ella vemos todos los atributos y las acciones disponibles de ambos. En la clase profesor, es importante tener en cuenta el rol del profesor que entre en la base de datos, ya que uno puede ser, además, coordinador de la base de datos. El profesor tiene relación directa con la agenda, que es donde se introducen o se modifican, por ejemplo, los alumnos. Ésta, a su vez, tiene relación directa con dichos alumnos y con la clase grupo, que engloba a la clase alumno y en la que podremos separar a los alumnos por grupos de trabajo.
