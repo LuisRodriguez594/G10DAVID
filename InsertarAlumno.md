@@ -1,1 +1,1 @@
-![Insertar Alumno](http://i68.tinypic.com/2412xaf.png)
+![Insertar Alumno](http://i65.tinypic.com/xokyg9.png)
