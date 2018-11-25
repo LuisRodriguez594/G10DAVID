@@ -1,1 +1,1 @@
-![Insertar Alumno](url/https://gyazo.com/3c73bca181b7366d687716ba35a92456)
+![Insertar Alumno](http://i68.tinypic.com/2412xaf.png)
